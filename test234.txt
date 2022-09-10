@@ -1,3 +1,8 @@
 123
 
+<<<<<<< HEAD
 testing123
+=======
+test
+Testinng1
+>>>>>>> testing1
